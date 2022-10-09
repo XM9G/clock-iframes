@@ -4,7 +4,7 @@
        margin: 0;
        position: absolute;
        top: 50%;
-       left: 20%;
+       left: 50%;
        margin-right: -50%;
        transform: translate(-50%, -50%);
        text-align: center;
@@ -94,4 +94,39 @@ li a {
 
 a:link {
     text-decoration: none;
+}
+
+.ads {
+    margin: 0;
+       position: absolute;
+       top: 50%;
+       left: 90%;
+       margin-right: -50%;
+       transform: translate(-50%, -50%);
+       text-align: center;
+       background: #ffffff;
+       padding: 10px;
+       font-size: 30px;
+       border-radius: 5px;
+       opacity: 90%;
+       color: rgb(0, 0, 0);
+       font-family: 'Lexend Deca', sans-serif;
+       box-shadow: 0px 0px 20px lightgray;
+}
+.ads2 {
+    margin: 0;
+       position: absolute;
+       top: 50%;
+       left: 10%;
+       margin-right: -50%;
+       transform: translate(-50%, -50%);
+       text-align: center;
+       background: #ffffff;
+       padding: 10px;
+       font-size: 30px;
+       border-radius: 5px;
+       opacity: 90%;
+       color: rgb(0, 0, 0);
+       font-family: 'Lexend Deca', sans-serif;
+       box-shadow: 0px 0px 20px lightgray;
 }
